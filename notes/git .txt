@@ -1,0 +1,21 @@
+for the first time
+-----------------------------
+git init
+git add *
+git commit -m "first commit"
+git config --global user.name "<your username>"
+git config --global user.email "<your email>"
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/kripaz777/class530.git
+git push -u origin master
+
+After first time
+-------------------------
+git add *
+git commit -m "new word file is added"
+git push -u origin master
+
+
+for more information check this link:
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
