@@ -17,5 +17,10 @@ git commit -m "new word file is added"
 git push -u origin master
 
 
+git from other directory
+git clone <repo https>  this bring all the code from github
+
+
+
 for more information check this link:
 https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
